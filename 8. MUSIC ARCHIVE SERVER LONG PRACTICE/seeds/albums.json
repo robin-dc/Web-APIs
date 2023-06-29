@@ -1,0 +1,17 @@
+{
+  "1": {
+    "albumId": 1,
+    "name": "Stadium Arcadium",
+    "artistId": 1
+  },
+  "2": {
+    "albumId": 2,
+    "name": "Arcadium",
+    "artistId": 2
+  },
+  "3": {
+    "albumId": 3,
+    "name": "Stadium",
+    "artistId": 1
+  }
+}

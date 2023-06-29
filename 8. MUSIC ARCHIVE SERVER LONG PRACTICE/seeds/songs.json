@@ -1,0 +1,23 @@
+{
+  "1": {
+    "songId": 1,
+    "name": "Dani California",
+    "trackNumber": 1,
+    "albumId": 2,
+    "lyrics": "Getting born in the state of Mississippi\nPapa was a copper"
+  },
+  "2": {
+    "songId": 2,
+    "name": "Dani",
+    "trackNumber": 1,
+    "albumId": 2,
+    "lyrics": "fornia, rest in peace\nSimultaneous release\nCalifornia, show your teeth\nShe's my priestess\nI'm your priest\nYeah, yeah, yeah"
+  },
+  "3": {
+    "songId": 3,
+    "name": "California",
+    "trackNumber": 3,
+    "albumId": 3,
+    "lyrics": "ust another way to survive\nCalifornia, rest in peace\nSimultaneous release\nCalifornia, show your teeth\nShe's my priestess\nI'm your priest\nYeah, yeah, yeah\nShe's a lover, baby, and a fighter\nShould've seen it coming when I got a little brighter\n"
+  }
+}
